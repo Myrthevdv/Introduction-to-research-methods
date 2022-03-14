@@ -6,8 +6,8 @@
 ###  Installation 
 Use these instalation test to execute the "de" counter shell script on the RUG Wikipedia page 
 ```
-pytest pets.py 
-pycodestyle pets.py
+git clone https://github.com/Myrthevdv/Introduction-to-research-methods.git
+cd Introduction-to-research-methods
 ```
 
 ### Data
