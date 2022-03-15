@@ -3,14 +3,16 @@
 ### "de" counter
 #### Myrthe van der Veen S4977068
 
-### Software uses
+
+### The Repository
+This repository consist of a script that counts the number of occurrences of the word 'de' uppercase and lowercase in a file.
+
+### The used Software 
 
 The software that is used is **Ubuntu OS**, we used the command ```bash``` from this software to run the shell script. The following versions of Bash and Ubuntu are used:
 - **Bash**: 5.0.17(1)-release
 - **Ubuntu**: 20.04.4 LTS
 
-### Repo
-This repository conssist of a script that counts the number of occurences of the word 'de' uppercase and lowercase in a file. 
 
 ###  Installation 
 Use this instalation to be able to execute the 'de' counter shell script on the RUG Wikipedia page 
