@@ -3,6 +3,12 @@
 ### "de" counter
 #### Myrthe van der Veen S4977068
 
+### Software uses
+
+The software that is used is **Ubuntu OS**, we used the command ```bash``` from this software to run the shell script. The following versions of Bash and Ubuntu are used:
+- **Bash**: 5.0.17(1)-release
+- **Ubuntu**: 20.04.4 LTS
+
 ###  Installation 
 Use these instalation test to execute the "de" counter shell script on the RUG Wikipedia page 
 ```
